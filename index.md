@@ -1,6 +1,38 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default
 ---
+
+## About Me
+
+<img class="profile-picture" src="photo.jpeg">
+
+Hi! I am a 2nd year PhD student of [VIE lab](http://www.vie.group/) at Peking University. My supervisors are [Tingting Jiang](http://www.vie.group/ttj) and Yizhou Wang. 
+
+Find out more at my [Github](https://github.com/Finspire13). 
+
+## Research Interest
+*Surgical Video Analysis:*
+1. Surgical skill assessment
+2. Surgical tool segmentation
+3. Surgical event detection 
+
+*Action Recognition:*
+1. Temporal action localization
+2. Temporal action segmentation
+
+## Publications
+
+ Year | Title | Author | More
+-----|-----|-----|-----
+CVPR 2019 | Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization | **Daochang Liu**, Tingting Jiang, Yizhou Wang | [Code](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
+MICCAI 2018 | Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification | **Daochang Liu**, Tingting Jiang | [Code](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation)
+
+## Honors
+
+1. Reviewer of MICCAI 2019
+
+## Contact
+
+* Email: [finspire13@gmail.com](mailto:finspire13@gmail.com)
+
+

@@ -13,22 +13,38 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Daochang's Blog
-email: finspire13@gmail.com
+title: Daochang Liu
+#email: finspire13@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My name is Daochang Liu.
+  I am a 2nd year PhD student of VIE lab at Peking University. 
+  My supervisors are Tingting Jiang and Yizhou Wang.
+  Doing research on surgical skill assessment and temporal action localization.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: none
 github_username:  finspire13
 
 # Build settings
+
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+ - name: "Resume"
+   link: "resume.pdf"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
