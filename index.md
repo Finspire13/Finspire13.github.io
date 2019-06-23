@@ -36,3 +36,7 @@ MICCAI 2018 | Deep Reinforcement Learning for Surgical Gesture Segmentation and 
 
 * Email: [finspire13@gmail.com](mailto:finspire13@gmail.com)
 
+## Vlog
+
+* [Vlog - CVPR 2019](https://www.bilibili.com/video/av56547471)
+
