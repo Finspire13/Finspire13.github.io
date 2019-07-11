@@ -28,7 +28,7 @@ MICCAI 2019 | Surgical Skill Assessment on In-Vivo Clinical Data via the Clearne
 CVPR 2019 | Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization | **Daochang Liu**, Tingting Jiang, Yizhou Wang | [Code](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
 MICCAI 2018 | Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification | **Daochang Liu**, Tingting Jiang | [Code](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation)
 
-## Honors
+## Services
 
 1. Reviewer of MICCAI 2019
 
