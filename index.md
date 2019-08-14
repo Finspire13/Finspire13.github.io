@@ -24,7 +24,7 @@ Find out more at my [Github](https://github.com/Finspire13).
 
  Year | Title | Author | More
 -----|-----|-----|-----
-MICCAI 2019 | Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field | **Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | [Paper](http://www.vie.group/media/pdf/paper37.pdf) 
+MICCAI 2019 Oral | Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field | **Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | [Paper](http://www.vie.group/media/pdf/paper37.pdf) 
 CVPR 2019 | Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization | **Daochang Liu**, Tingting Jiang, Yizhou Wang | [Code](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
 MICCAI 2018 | Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification | **Daochang Liu**, Tingting Jiang | [Code](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation)
 
