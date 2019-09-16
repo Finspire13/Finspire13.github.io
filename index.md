@@ -38,5 +38,5 @@ MICCAI 2018 | Deep Reinforcement Learning for Surgical Gesture Segmentation and 
 
 ## Vlog
 
-* [Vlog - CVPR 2019](https://www.bilibili.com/video/av56547471)
+* [Vlog - CVPR 2019](https://www.bilibili.com/video/av56547471) 
 
