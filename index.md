@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpeg">
 
-Hi! I am a 2nd year PhD student of [VIE lab](http://www.vie.group/) at Peking University. My supervisors are [Tingting Jiang](http://www.vie.group/ttj) and Yizhou Wang. 
+Hi! I am a 3rd year PhD student of [VIE lab](http://www.vie.group/) at Peking University. My supervisors are [Tingting Jiang](http://www.vie.group/ttj) and Yizhou Wang. 
 
 Find out more at my [Github](https://github.com/Finspire13). 
 
