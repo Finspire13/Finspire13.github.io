@@ -43,7 +43,7 @@ sass:
 nav:
  - name: "About"
    link: "/"
- - name: "Resume"
+ - name: "Curriculum Vitae"
    link: "resume.pdf"
 
 # Exclude from processing.
