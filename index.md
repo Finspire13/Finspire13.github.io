@@ -6,35 +6,46 @@ layout: default
 
 <img class="profile-picture" src="photo.jpeg">
 
-Hi! I am a 3rd year PhD student of [VIE lab](http://www.vie.group/) at Peking University. My supervisors are [Tingting Jiang](http://www.vie.group/ttj) and Yizhou Wang. 
-
-Find out more at my [Github](https://github.com/Finspire13). 
+Hi! I am a 3rd year PhD student of [VIE lab](http://www.vie.group/) at Peking University. My supervisors are [Tingting Jiang](http://www.vie.group/ttj) and Yizhou Wang. Find out more at my [Github](https://github.com/Finspire13). 
 
 ## Research Interest
-*Surgical Video Analysis:*
-1. Surgical skill assessment
-2. Surgical tool segmentation
-3. Surgical event detection 
 
-*Action Recognition:*
-1. Temporal action localization
-2. Temporal action segmentation
+*Computer Vision:*
+1. Video Action Recognition
+2. Temporal Action Localization
+3. Temporal Action Segmentation
+
+*Medical Image Computing:*
+1. Surgical Skill Assessment
+2. Surgical Tool Segmentation
+3. Surgical Event Detection 
 
 ## Publications
 
  Year | Title | Author | More
 -----|-----|-----|-----
+MICCAI 2020 | Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion | **Daochang Liu\***, Yuhui Wei\*, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | Paper
 MICCAI 2019 Oral | Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field | **Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | [Paper](http://www.vie.group/media/pdf/paper37.pdf) 
-CVPR 2019 | Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization | **Daochang Liu**, Tingting Jiang, Yizhou Wang | [Code](https://github.com/Finspire13/CMCS-Temporal-Action-Localization)
-MICCAI 2018 | Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification | **Daochang Liu**, Tingting Jiang | [Code](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation)
+CVPR 2019 | Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization | **Daochang Liu**, Tingting Jiang, Yizhou Wang | [Code](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [Paper](http://www.vie.group/media/pdf/1273.pdf)
+MICCAI 2018 | Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification | **Daochang Liu**, Tingting Jiang | [Code](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation) [Paper](http://www.vie.group/media/pdf/paper.pdf)
 
-## Services
+## Academic Services
 
-1. Reviewer of MICCAI 2019
+1. Reviewer of MICCAI
+
+## Honors and Awards
+
+1. Peking University Principle's Scholarship (2019)
+2. Peking University Academic Innovation Award (2019)
+3. Outstanding Student of NELVT (2019)
+4. Shanghai Outstanding Bachelor Graduate (2017)
+5. Tongji University Scholarship x3 (2015-2017)
+6. Tongji University Outstanding Student x2 (2015-2017)
 
 ## Contact
 
-* Email: [finspire13@gmail.com](mailto:finspire13@gmail.com)
+* 1st Email: [daochang@pku.edu.cn](mailto:daochang@pku.edu.cn)
+* 2nd Email: [finspire13@gmail.com](mailto:finspire13@gmail.com)
 
 ## Vlog
 
