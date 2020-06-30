@@ -41,8 +41,8 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/"
+ - name: "Research Statement"
+   link: "DaochangLiu-ResearchStatement.pdf"
  - name: "Curriculum Vitae"
    link: "resume.pdf"
 
