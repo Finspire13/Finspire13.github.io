@@ -24,7 +24,7 @@ Hi! I am a 3rd year PhD student of [VIE lab](http://www.vie.group/) at Peking Un
 
  Year | Title | Author | More
 -----|-----|-----|-----
-MICCAI 2020 | Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion | **Daochang Liu\***, Yuhui Wei\*, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | [Paper](http://www.vie.group/media/pdf/paper204.pdf)
+MICCAI 2020 | Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion | **Daochang Liu\***, Yuhui Wei\*, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | [Code](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) [Paper](http://www.vie.group/media/pdf/paper204.pdf)
 MICCAI 2019 Oral | Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field | **Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | [Paper](http://www.vie.group/media/pdf/paper37.pdf) 
 CVPR 2019 | Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization | **Daochang Liu**, Tingting Jiang, Yizhou Wang | [Code](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [Paper](http://www.vie.group/media/pdf/1273.pdf)
 MICCAI 2018 | Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification | **Daochang Liu**, Tingting Jiang | [Code](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation) [Paper](http://www.vie.group/media/pdf/paper.pdf)
