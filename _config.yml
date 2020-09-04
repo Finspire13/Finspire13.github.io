@@ -41,10 +41,11 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Research Statement"
-   link: "DaochangLiu-ResearchStatement.pdf"
  - name: "Curriculum Vitae"
    link: "resume.pdf"
+ # - name: "Research Statement"
+ #   link: "DaochangLiu-ResearchStatement.pdf"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
