@@ -12,7 +12,7 @@ Hi! I am a 4th year Ph.D. student of [VIE lab](http://www.vie.group/) at Peking 
 
 *Computer Vision:*
 1. Video Understanding
-2. Action Recognition/Localization/Segmentation
+2. Action Recognition / Localization / Segmentation
 
 *Medical Image Computing:*
 1. Surgical Skill Assessment
@@ -23,7 +23,7 @@ Hi! I am a 4th year Ph.D. student of [VIE lab](http://www.vie.group/) at Peking 
 
  Year | Title | Author | More
 -----|-----|-----|-----
-MICCAI 2020 Accepted| Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion | **Daochang Liu\***, Yuhui Wei\*, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | [Code](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) [Paper](http://www.vie.group/media/pdf/paper204.pdf)
+MICCAI 2020 | Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion | **Daochang Liu\***, Yuhui Wei\*, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | [Code](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) [Paper](http://www.vie.group/media/pdf/paper204.pdf)
 CVPR 2019 | Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization | **Daochang Liu**, Tingting Jiang, Yizhou Wang | [Code](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [Paper](http://www.vie.group/media/pdf/1273.pdf)
 MICCAI 2019 | Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field | **Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | [Paper](http://www.vie.group/media/pdf/paper37.pdf) 
 MICCAI 2018 | Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification | **Daochang Liu**, Tingting Jiang | [Code](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation) [Paper](http://www.vie.group/media/pdf/paper.pdf)
@@ -37,12 +37,13 @@ IJCARS 2020 | Clearness of Operating Field: A Surrogate for Surgical Skills on I
 
 ## Honors and Awards
 
-1. Peking University Principle's Scholarship (2019)
-2. Peking University Academic Innovation Award (2019)
-3. Outstanding Student of NELVT (2019)
-4. Shanghai Outstanding Bachelor Graduate (2017)
-5. Tongji University Scholarship x3 (2015-2017)
-6. Tongji University Outstanding Student x2 (2015-2017)
+1. MSRA Fellowship Nomination Award (2020)
+2. Peking University Principle's Scholarship (2019)
+3. Peking University Academic Innovation Award (2019)
+4. Outstanding Student of NELVT (2019)
+5. Shanghai Outstanding Bachelor Graduate (2017)
+6. Tongji University Scholarship x3 (2015-2017)
+7. Tongji University Outstanding Student x2 (2015-2017)
 
 ## Academic Services
 
