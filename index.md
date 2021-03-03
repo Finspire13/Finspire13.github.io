@@ -6,14 +6,13 @@ layout: default
 
 <img class="profile-picture" src="photo.jpeg">
 
-Hi! I am a 4th year PhD student of [VIE lab](http://www.vie.group/) at Peking University. My supervisors are [Tingting Jiang](http://www.vie.group/ttj) and Yizhou Wang. Before coming to Peking University in 2017, I studied at Tongji University. Find out more at my [Github](https://github.com/Finspire13). 
+Hi! I am a 4th year Ph.D. student of [VIE lab](http://www.vie.group/) at Peking University. My supervisors are [Tingting Jiang](http://www.vie.group/ttj) and Yizhou Wang. Before coming to Peking University in 2017, I studied at Tongji University. Find out more at my [Github](https://github.com/Finspire13). 
 
 ## Research Interest
 
 *Computer Vision:*
-1. Video Action Recognition
-2. Temporal Action Localization
-3. Temporal Action Segmentation
+1. Video Understanding
+2. Action Recognition/Localization/Segmentation
 
 *Medical Image Computing:*
 1. Surgical Skill Assessment
@@ -33,11 +32,8 @@ MICCAI 2018 | Deep Reinforcement Learning for Surgical Gesture Segmentation and 
 
  Year | Title | Author | More
 -----|-----|-----|-----
-IJCARS Accepted | Clearness of Operating Field: A Surrogate for Surgical Skills on In-Vivo Clinical Data | **Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | -
+IJCARS 2020 | Clearness of Operating Field: A Surrogate for Surgical Skills on In-Vivo Clinical Data | **Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | [Paper](http://www.vie.group/media/pdf/IJCARS.pdf)
 
-## Academic Services
-
-1. Reviewer of MICCAI
 
 ## Honors and Awards
 
@@ -47,6 +43,10 @@ IJCARS Accepted | Clearness of Operating Field: A Surrogate for Surgical Skills 
 4. Shanghai Outstanding Bachelor Graduate (2017)
 5. Tongji University Scholarship x3 (2015-2017)
 6. Tongji University Outstanding Student x2 (2015-2017)
+
+## Academic Services
+
+1. Reviewer of MICCAI
 
 ## Contact
 

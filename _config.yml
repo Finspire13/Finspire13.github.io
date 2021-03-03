@@ -17,7 +17,7 @@ title: Daochang Liu
 #email: finspire13@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My name is Daochang Liu.
-  I am a 3rd year PhD student of VIE lab at Peking University. 
+  I am a 4th year Ph.D. student of VIE lab at Peking University. 
   My supervisors are Tingting Jiang and Yizhou Wang.
   Doing research on surgical skill assessment and temporal action localization.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -41,8 +41,10 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Curriculum Vitae"
-   link: "resume.pdf"
+ - name: "Resume (English)"
+   link: "resume_en.pdf"
+ - name: "Resume (Chinese)"
+   link: "resume_cn.pdf"
  # - name: "Research Statement"
  #   link: "DaochangLiu-ResearchStatement.pdf"
 
