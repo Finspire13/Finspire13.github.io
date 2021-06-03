@@ -14,7 +14,7 @@ Hi! I am a 4th year Ph.D. student of [VIE lab](http://www.vie.group/) at Peking 
 1. Video Understanding
 2. Action Recognition / Localization / Segmentation
 
-*Medical Image Computing:*
+*Surgical Video Analysis:*
 1. Surgical Skill Assessment
 2. Surgical Tool Segmentation
 3. Surgical Event Detection 
@@ -23,7 +23,7 @@ Hi! I am a 4th year Ph.D. student of [VIE lab](http://www.vie.group/) at Peking 
 
  Year | Title | Author | More
 -----|-----|-----|-----
-CVPR 2021 | Towards Unified Surgical Skill Assessment | **Daochang Liu**, Qiyue Li, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | -
+CVPR 2021 | Towards Unified Surgical Skill Assessment | **Daochang Liu**, Qiyue Li, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | [Code](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment) [Paper](https://arxiv.org/abs/2106.01035)
 MICCAI 2020 | Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion | **Daochang Liu\***, Yuhui Wei\*, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | [Code](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) [Paper](http://www.vie.group/media/pdf/paper204.pdf)
 CVPR 2019 | Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization | **Daochang Liu**, Tingting Jiang, Yizhou Wang | [Code](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [Paper](http://www.vie.group/media/pdf/1273.pdf)
 MICCAI 2019 | Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field | **Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li | [Paper](http://www.vie.group/media/pdf/paper37.pdf) 
@@ -48,7 +48,7 @@ IJCARS 2020 | Clearness of Operating Field: A Surrogate for Surgical Skills on I
 
 ## Academic Services
 
-1. Reviewer of MICCAI
+1. Reviewer of MICCAI, CVPR, TMI, BMVC, AAAI
 
 ## Contact
 
