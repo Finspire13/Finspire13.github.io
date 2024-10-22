@@ -18,9 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-**I am joining the [School of Physics, Mathematics and Computing, The University of Western Australia](https://www.uwa.edu.au/schools/physics-mathematics-computing) in Nov 2024 as a Lecturer (Assistant Professor).**
-
-**I am actively looking for PhD/MPhil/Visiting students and research interns. If you are interested in working with me, please feel free to contact me.**
+**I am joining the School of Physics, Mathematics and Computing, [The University of Western Australia](https://www.uwa.edu.au/schools/physics-mathematics-computing) in Nov 2024 as a Lecturer (Assistant Professor). I am actively looking for PhD/MPhil/Visiting students and research interns. If you are interested in working with me, please feel free to contact me.**
 
 
 I am a postdoctoral researcher in A/Prof [Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, The University of Sydney.
