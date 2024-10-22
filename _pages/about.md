@@ -17,6 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
+**I am joining the [School of Physics, Mathematics and Computing, The University of Western Australia](https://www.uwa.edu.au/schools/physics-mathematics-computing) in Nov 2024 as a Lecturer (Assistant Professor).**
+
+**I am actively looking for PhD/MPhil/Visiting students and research interns. If you are interested in working with me, please feel free to contact me.**
+
+
 I am a postdoctoral researcher in A/Prof [Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, The University of Sydney.
 I obtained a PhD degree from Peking University supervised by A/Prof Tingting Jiang and Prof Yizhou Wang.
 My research interests lie in generative artificial intelligence, computer vision, human action and skill understanding, also with interdisciplinary applications in healthcare data science.
@@ -44,11 +50,11 @@ My research interests lie in generative artificial intelligence, computer vision
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
  -->
 
-<span class='anchor' id='news'></span>
+<!-- <span class='anchor' id='news'></span> -->
 
-# 🔥 News
-- *2024.05*: I will organize The 1st Workshop on Efficiency, Security, and Generalization of Foundation Models at ACM MM 2024.
-- *2024.05*: One paper accepted to ICML 2024 and one accepted to IJCAI 2024.
+<!-- # 🔥 News -->
+<!-- - *2024.05*: I will organize The 1st Workshop on Efficiency, Security, and Generalization of Foundation Models at ACM MM 2024. -->
+<!-- - *2024.05*: One paper accepted to ICML 2024 and one accepted to IJCAI 2024. -->
 <!-- *2024.02*: Two papers accepted to CVPR 2024. 
 *2024.02*: I will serve as an Area Chair for MICCAI 2024.  -->
 
