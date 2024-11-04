@@ -392,7 +392,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 <span class='anchor' id='grants'></span>
 
-# 🌟 Grants
+<!-- # 🌟 Grants -->
 
 <!-- - *2023 - 2024*, Artificial Intelligence Empowered Surgical Skill Assessment (Lead CI), $7840 USD, Google Cloud Research Credits Award 
 
@@ -414,15 +414,19 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2023 Q1-Q2*, Lead CI, 10000 GPU Hours (10K AUD Equivalent), The National Computational Infrastructure (NCI) Adapter Scheme 
  -->
 
-- *2024 - 2025*, Digital Sciences Initiative Ignite Award, USYD
 
-- *2023 - 2024*, Google Cloud Research Credits Award 
 
-- *2024 Q1-Q2*, The National Computational Infrastructure (NCI) AI Flagship Scheme
 
-- *2024 Q1-Q2*, Sydney Informatics Hub (SIH) HPC Allocation Scheme 2024 Round 1
 
-- *2023 Q1-Q2*, The National Computational Infrastructure (NCI) Adapter Scheme 
+<!-- - *2024 - 2025*, Digital Sciences Initiative Ignite Award, USYD -->
+
+<!-- - *2023 - 2024*, Google Cloud Research Credits Award  -->
+
+<!-- - *2024 Q1-Q2*, The National Computational Infrastructure (NCI) AI Flagship Scheme -->
+
+<!-- - *2024 Q1-Q2*, Sydney Informatics Hub (SIH) HPC Allocation Scheme 2024 Round 1 -->
+
+<!-- - *2023 Q1-Q2*, The National Computational Infrastructure (NCI) Adapter Scheme  -->
 
 
 <span class='anchor' id='services'></span>
