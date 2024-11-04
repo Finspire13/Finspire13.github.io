@@ -18,12 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-**I am joining the School of Physics, Mathematics and Computing, [The University of Western Australia](https://www.uwa.edu.au/schools/physics-mathematics-computing) in Nov 2024 as a Lecturer (Assistant Professor). I am actively looking for PhD/MPhil/Visiting students and research interns. If you are interested in working with me, please feel free to contact me.**
-
-
-I am a postdoctoral researcher in A/Prof [Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, The University of Sydney.
+I am a Lecturer (Assistant Professor) at School of Physics, Mathematics and Computing, [The University of Western Australia](https://www.uwa.edu.au/schools/physics-mathematics-computing). 
+I was a postdoctoral researcher in A/Prof [Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, The University of Sydney.
 I obtained a PhD degree from Peking University supervised by A/Prof Tingting Jiang and Prof Yizhou Wang.
 My research interests lie in generative artificial intelligence, computer vision, human action and skill understanding, also with interdisciplinary applications in healthcare data science.
+
+
+**I am actively looking for PhD/MPhil/Visiting students and research interns. If you are interested in working with me, please feel free to contact me.**
+
 
 <!-- I obtained a PhD degree from Peking University supervised by A/Prof [Tingting Jiang](http://www.vie.group/ttj) and Prof [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
  -->
@@ -439,6 +441,6 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 **Contact:** daochang.liu at sydney.edu.au, finspire13 at gmail.com
 
-**Last Update:** Sep 03, 2024
+**Last Update:** Nov 04, 2024
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EPHsmQIJLbnhIay_lL2JI0tJ1EPMrLTnAPwg8zuvHkY&cl=ffffff&w=300"></script>
