@@ -19,7 +19,7 @@ redirect_from:
 
 
 I am a Lecturer (Assistant Professor) at School of Physics, Mathematics and Computing, [The University of Western Australia](https://www.uwa.edu.au/schools/physics-mathematics-computing). 
-I was a postdoctoral researcher in A/Prof [Chang Xu](http://changxu.xyz/)'s group at the School of Computer Science, The University of Sydney.
+I was a postdoctoral researcher in A/Prof Chang Xu's group at the School of Computer Science, The University of Sydney.
 I obtained a PhD degree from Peking University supervised by A/Prof Tingting Jiang and Prof Yizhou Wang.
 My research interests lie in generative artificial intelligence, computer vision, human action and skill understanding, also with interdisciplinary applications in healthcare data science.
 
@@ -66,23 +66,7 @@ My research interests lie in generative artificial intelligence, computer vision
 
 <br>
 
-# 📝 Generative Artificial Intelligence 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Bridging Data Gaps in Diffusion Models with Adversarial Noise-Based Transfer Learning](https://openreview.net/pdf?id=PpBs2iL0jv) 
-<!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
- -->
-
-Xiyu Wang, Baijiong Lin, **Daochang Liu**, Ying-Cong Chen, Chang Xu
-
-*International Conference on Machine Learning (ICML), 2024*
-
-</div>
-</div>
-
+# 📝 Research
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-1.png' alt="sym" width="100%"></div></div>
@@ -102,7 +86,25 @@ Chen Chen, **Daochang Liu**, Chang Xu
 </div>
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-2.png' alt="sym" width="100%"></div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bridging Data Gaps in Diffusion Models with Adversarial Noise-Based Transfer Learning](https://openreview.net/pdf?id=PpBs2iL0jv) 
+<!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
+ -->
+
+Xiyu Wang, Baijiong Lin, **Daochang Liu**, Ying-Cong Chen, Chang Xu
+
+*International Conference on Machine Learning (ICML), 2024*
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Residual Learning in Diffusion Models](https://openreview.net/pdf?id=EHX9Zg0zW8) 
@@ -112,7 +114,7 @@ Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
 
 </div>
-</div> -->
+</div>
 
 
 
@@ -146,7 +148,7 @@ Junyu Zhang,**Daochang Liu**, Shichao Zhang, Chang Xu
 </div>
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Personalized Image Generation for Color Vision Deficiency Population](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Personalized_Image_Generation_for_Color_Vision_Deficiency_Population_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:8k81kl-MbHgC'></span></strong>
@@ -158,7 +160,7 @@ Shuyi Jiang, **Daochang Liu**, Dingquan Li, Chang Xu
 [[Code]](https://github.com/Jiangshuyi0V0/CVD-GAN)
 
 </div>
-</div> -->
+</div>
 
 
 
@@ -178,7 +180,7 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/CVPR2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/CVPR2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Private Image Generation with Dual-Purpose Auxiliary Classifier](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Private_Image_Generation_With_Dual-Purpose_Auxiliary_Classifier_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:0EnyYjriUFMC'></span></strong>
@@ -190,10 +192,10 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 [[Code]](https://github.com/chenchen-usyd/DP-GAN-DPAC) [[Video]](https://www.youtube.com/watch?v=ZsjYIZ2s0fw)
 
 </div>
-</div> -->
+</div>
 
 
-- [Residual Learning in Diffusion Models](https://openreview.net/pdf?id=EHX9Zg0zW8), Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
+<!-- - [Residual Learning in Diffusion Models](https://openreview.net/pdf?id=EHX9Zg0zW8), Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024* -->
 
 - [Boosting Diffusion Models with an Adaptive Momentum Sampler](https://arxiv.org/abs/2308.11941) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:MXK_kJrjxJIC'></span></strong>, Xiyu Wang, Anh-Dung Dinh, **Daochang Liu**, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2024*
 
@@ -201,15 +203,11 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 
 <!-- - [PixelAsParam: A Gradient View on Diffusion Sampling with Guidance](https://openreview.net/forum?id=2q1Whv1kXL) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:5nxA0vEk-isC'></span></strong>, Anh-Dung Dinh, **Daochang Liu**, Chang Xu. *International Conference on Machine Learning (ICML), 2023*, [[Code]](https://github.com/dungdinhanh/pxpguided-diffusion) -->
 
-- [Personalized Image Generation for Color Vision Deficiency Population](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Personalized_Image_Generation_for_Color_Vision_Deficiency_Population_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:8k81kl-MbHgC'></span></strong>, Shuyi Jiang, **Daochang Liu**, Dingquan Li, Chang Xu. *International Conference on Computer Vision (ICCV), 2023*, [[Code]](https://github.com/Jiangshuyi0V0/CVD-GAN)
+<!-- - [Personalized Image Generation for Color Vision Deficiency Population](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Personalized_Image_Generation_for_Color_Vision_Deficiency_Population_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:8k81kl-MbHgC'></span></strong>, Shuyi Jiang, **Daochang Liu**, Dingquan Li, Chang Xu. *International Conference on Computer Vision (ICCV), 2023*, [[Code]](https://github.com/Jiangshuyi0V0/CVD-GAN) -->
 
-- [Private Image Generation with Dual-Purpose Auxiliary Classifier](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Private_Image_Generation_With_Dual-Purpose_Auxiliary_Classifier_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:0EnyYjriUFMC'></span></strong>, Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023* [[Code]](https://github.com/chenchen-usyd/DP-GAN-DPAC) [[Video]](https://www.youtube.com/watch?v=ZsjYIZ2s0fw)
+<!-- - [Private Image Generation with Dual-Purpose Auxiliary Classifier](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Private_Image_Generation_With_Dual-Purpose_Auxiliary_Classifier_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:0EnyYjriUFMC'></span></strong>, Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023* [[Code]](https://github.com/chenchen-usyd/DP-GAN-DPAC) [[Video]](https://www.youtube.com/watch?v=ZsjYIZ2s0fw) -->
 
 
-
-<br>
-
-# 📝 Computer Vision and Human Action Understanding 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-1.png' alt="sym" width="100%"></div></div>
@@ -242,6 +240,7 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -266,12 +265,6 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 
 
-
-
-
-<br>
-
-# 📝 AI for Healthcare and Surgery
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -439,7 +432,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2023*, Co-Organizer of Coding Fest USYD & Macquarie Workshop
 - *2022*, Local Arrangement Chair and Session Chair of The International Conference on Digital Image Computing: Techniques and Applications (DICTA)
 - Program Committee Member of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, MICCAI, ACM MM, BMVC, AAAI, IJCAI, KDD, ICDM, DICTA
-- Reviewer of TPAMI, TMI, TMM, TCSVT, TNNLS, CVIU, TMLR, Pattern Recognition, IEEE Access
+- Reviewer of IJCV, TPAMI, TMI, TMM, TCSVT, TNNLS, CVIU, TMLR, Pattern Recognition, IEEE Access
 
 # -
 
