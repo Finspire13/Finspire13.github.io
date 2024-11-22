@@ -121,6 +121,37 @@ Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/IJCAI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Boosting Diffusion Models with an Adaptive Momentum Sampler](https://arxiv.org/abs/2308.11941) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:MXK_kJrjxJIC'></span></strong>
+
+Xiyu Wang, Anh-Dung Dinh, **Daochang Liu**, Chang Xu
+
+*International Joint Conference on Artificial Intelligence (IJCAI), 2024*
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Diffusion Action Segmentation](https://arxiv.org/abs/2303.17959) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
+
+**Daochang Liu**, Qiyue Li, Anh-Dung Dinh, Tingting Jiang, Mubarak Shah, Chang Xu
+
+*International Conference on Computer Vision (ICCV), 2023*
+
+[[Project]](https://finspire13.github.io/DiffAct-Project-Page/) [[Code]](https://github.com/Finspire13/DiffAct) [[Video]](https://youtu.be/AZ0vjscL1nc)
+
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -199,17 +230,7 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/IJCAI2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Boosting Diffusion Models with an Adaptive Momentum Sampler](https://arxiv.org/abs/2308.11941) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:MXK_kJrjxJIC'></span></strong>
-
-Xiyu Wang, Anh-Dung Dinh, **Daochang Liu**, Chang Xu
-
-*International Joint Conference on Artificial Intelligence (IJCAI), 2024*
-
-</div>
-</div>
 
 
 <!-- - [Residual Learning in Diffusion Models](https://openreview.net/pdf?id=EHX9Zg0zW8), Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024* -->
@@ -224,38 +245,6 @@ Xiyu Wang, Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 
 <!-- - [Private Image Generation with Dual-Purpose Auxiliary Classifier](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Private_Image_Generation_With_Dual-Purpose_Auxiliary_Classifier_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:0EnyYjriUFMC'></span></strong>, Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu. *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023* [[Code]](https://github.com/chenchen-usyd/DP-GAN-DPAC) [[Video]](https://www.youtube.com/watch?v=ZsjYIZ2s0fw) -->
 
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Diffusion Action Segmentation](https://arxiv.org/abs/2303.17959) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
-
-**Daochang Liu**, Qiyue Li, Anh-Dung Dinh, Tingting Jiang, Mubarak Shah, Chang Xu
-
-*International Conference on Computer Vision (ICCV), 2023*
-
-[[Project]](https://finspire13.github.io/DiffAct-Project-Page/) [[Code]](https://github.com/Finspire13/DiffAct) [[Video]](https://youtu.be/AZ0vjscL1nc)
-
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/CVPR19.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization](http://www.vie.group/media/pdf/1273.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:qjMakFHDy7sC'></span></strong>
-
-**Daochang Liu**, Tingting Jiang, Yizhou Wang
-
-*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019*
-
-[[Code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [[Poster]](http://www.vie.group/media/pdf/CVPR海报_ldc_final.pdf)
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
@@ -318,6 +307,22 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 **Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
 
 *International Journal of Computer Assisted Radiology and Surgery (IJCARS), 2020*
+
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/CVPR19.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization](http://www.vie.group/media/pdf/1273.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:qjMakFHDy7sC'></span></strong>
+
+**Daochang Liu**, Tingting Jiang, Yizhou Wang
+
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2019*
+
+[[Code]](https://github.com/Finspire13/CMCS-Temporal-Action-Localization) [[Poster]](http://www.vie.group/media/pdf/CVPR海报_ldc_final.pdf)
 
 </div>
 </div>
