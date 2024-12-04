@@ -87,6 +87,21 @@ My research interests lie in generative artificial intelligence, computer vision
 # 📝 Research
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/TPAMI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[23] DiffAct++: Diffusion Action Segmentation](https://www.computer.org/csdl/journal/tp/5555/01/10772006/22gA5Z07dyE) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:dhFuZR0502QC'></span></strong>
+
+**Daochang Liu**, Qiyue Li, Anh-Dung Dinh, Tingting Jiang, Mubarak Shah, Chang Xu
+
+*IEEE Transactions on Pattern Analysis & Machine Intelligence (TPAMI)*
+
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
