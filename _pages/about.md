@@ -94,6 +94,8 @@ My research interests lie in generative artificial intelligence, computer vision
 
 **Daochang Liu**, Junyu Zhang, Anh-Dung Dinh, Eunbyung Park, Shichao Zhang, Chang Xu
 
+[[Code]](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)
+
 </div>
 </div>
 
