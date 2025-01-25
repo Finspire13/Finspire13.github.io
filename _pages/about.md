@@ -52,14 +52,12 @@ My research interests lie in generative artificial intelligence, computer vision
 
 <!-- <span class='anchor' id='news'></span> -->
 
-<!-- # 🔥 News -->
-<!-- - *2024.05*: I will organize The 1st Workshop on Efficiency, Security, and Generalization of Foundation Models at ACM MM 2024. -->
-<!-- - *2024.05*: One paper accepted to ICML 2024 and one accepted to IJCAI 2024. -->
-<!-- *2024.02*: Two papers accepted to CVPR 2024. 
-*2024.02*: I will serve as an Area Chair for MICCAI 2024.  -->
+# 🔥 News
+- *2025.01*: Our new survey on "Physical AI" is now on [arxiv](https://arxiv.org/abs/2501.10928).
+- *2025.01*: Three papers accepted to ICLR 2025.
+- *2025.01*: I will be an Area Chair for MICCAI 2025.
 
-<span class='anchor' id='publications'></span>
-
+<!-- <span class='anchor' id='publications'></span> -->
 
 
 <!-- <br>
