@@ -102,7 +102,7 @@ My research interests lie in generative artificial intelligence, computer vision
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ICLR2025-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[26] Exploring Local Memorization in Diffusion Models via Bright Ending Attention](https://openreview.net/pdf?id=p4cLtzk4oe) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+[[27] Exploring Local Memorization in Diffusion Models via Bright Ending Attention](https://openreview.net/pdf?id=p4cLtzk4oe) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
 
 Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 
@@ -116,7 +116,7 @@ Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ICLR2025-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[25] Representative Guidance: Diffusion Model Sampling with Consistency](https://openreview.net/pdf?id=gWgaypDBs8) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+[[26] Representative Guidance: Diffusion Model Sampling with Consistency](https://openreview.net/pdf?id=gWgaypDBs8) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
 
 Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 
@@ -131,7 +131,7 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ICLR2025-3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[24] Anti-Exposure Bias in Diffusion Models via Prompt Learning](https://openreview.net/pdf?id=MtDd7rWok1) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+[[25] Anti-Exposure Bias in Diffusion Models via Prompt Learning](https://openreview.net/pdf?id=MtDd7rWok1) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
 
 Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 
@@ -139,6 +139,22 @@ Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 
 </div>
 </div>
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/NAACL2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[[24] CollagePrompt: A Benchmark for Budget-Friendly Visual Recognition with GPT-4V](https://openreview.net/pdf?id=bB1V17TgeU) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+
+Siyu Xu, Yunke Wang, **Daochang Liu**, Bo Du, Chang Xu
+
+*Conference of the Nations of the Americas Chapter of the ACL (NAACL), 2025*
+
+</div>
+</div>
+
 
 
 
