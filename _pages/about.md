@@ -106,7 +106,7 @@ My research interests lie in generative artificial intelligence, computer vision
 
 Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 
-*International Conference on Learning Representations (ICLR)*
+*International Conference on Learning Representations (ICLR), 2025*
 
 </div>
 </div>
@@ -120,7 +120,7 @@ Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 
 Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 
-*International Conference on Learning Representations (ICLR)*
+*International Conference on Learning Representations (ICLR), 2025*
 
 </div>
 </div>
@@ -135,7 +135,7 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 
 Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 
-*International Conference on Learning Representations (ICLR)*
+*International Conference on Learning Representations (ICLR), 2025*
 
 </div>
 </div>
@@ -151,7 +151,7 @@ Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 
 **Daochang Liu**, Qiyue Li, Anh-Dung Dinh, Tingting Jiang, Mubarak Shah, Chang Xu
 
-*IEEE Transactions on Pattern Analysis & Machine Intelligence (TPAMI)*
+*IEEE Transactions on Pattern Analysis & Machine Intelligence (TPAMI), 2025*
 
 </div>
 </div>
