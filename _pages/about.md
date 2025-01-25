@@ -88,7 +88,7 @@ My research interests lie in generative artificial intelligence, computer vision
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[24] Generative Physical AI in Vision: A Survey](https://arxiv.org/abs/2501.10928) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+[Generative Physical AI in Vision: A Survey](https://arxiv.org/abs/2501.10928) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
 
 **Daochang Liu**, Junyu Zhang, Anh-Dung Dinh, Eunbyung Park, Shichao Zhang, Chang Xu
 
