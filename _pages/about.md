@@ -53,6 +53,7 @@ My research interests lie in generative artificial intelligence, computer vision
 <!-- <span class='anchor' id='news'></span> -->
 
 # 🔥 News
+- *2025.03*: One paper accepted to CVPR 2025.
 - *2025.01*: Our new survey on "Physical AI" is now on [arxiv](https://arxiv.org/abs/2501.10928).
 - *2025.01*: Three papers accepted to ICLR 2025.
 - *2025.01*: I will be an Area Chair for MICCAI 2025.
@@ -91,6 +92,19 @@ My research interests lie in generative artificial intelligence, computer vision
 [Generative Physical AI in Vision: A Survey](https://arxiv.org/abs/2501.10928) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
 
 **Daochang Liu**, Junyu Zhang, Anh-Dung Dinh, Eunbyung Park, Shichao Zhang, Chang Xu
+
+[[Summary]](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Privacy-Utility Trade-offs to Mitigate Memorization in Diffusion Models](https://cvpr.thecvf.com/virtual/2025/poster/34842) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+
+Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 
 [[Code]](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)
 
