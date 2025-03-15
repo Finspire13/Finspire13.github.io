@@ -106,6 +106,7 @@ My research interests lie in generative artificial intelligence, computer vision
 
 Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 
+*IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025*
 </div>
 </div>
 
