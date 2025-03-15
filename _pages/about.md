@@ -106,8 +106,6 @@ My research interests lie in generative artificial intelligence, computer vision
 
 Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 
-[[Code]](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)
-
 </div>
 </div>
 
