@@ -165,6 +165,9 @@ Siyu Xu, Yunke Wang, **Daochang Liu**, Bo Du, Chang Xu
 
 *Conference of the Nations of the Americas Chapter of the ACL (NAACL), 2025*
 
+[[Project]](https://collageprompting.github.io/) [[Code]](https://github.com/siyuhsu/CollagePrompt) [[Dataset]](https://drive.google.com/file/d/1UVK0GhE1aQm1Fq7JDx93oZ4xpD2ZCUT8/view?usp=drive_link)
+
+
 </div>
 </div>
 
