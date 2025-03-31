@@ -102,7 +102,7 @@ My research interests lie in generative artificial intelligence, computer vision
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Privacy-Utility Trade-offs to Mitigate Memorization in Diffusion Models](https://cvpr.thecvf.com/virtual/2025/poster/34842) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+[[27] Enhancing Privacy-Utility Trade-offs to Mitigate Memorization in Diffusion Models](https://cvpr.thecvf.com/virtual/2025/poster/34842) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
 
 Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 
@@ -115,7 +115,7 @@ Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ICLR2025-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[27] Exploring Local Memorization in Diffusion Models via Bright Ending Attention](https://openreview.net/pdf?id=p4cLtzk4oe) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+[[26] Exploring Local Memorization in Diffusion Models via Bright Ending Attention](https://openreview.net/pdf?id=p4cLtzk4oe) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
 
 Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 
@@ -129,11 +129,13 @@ Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ICLR2025-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[26] Representative Guidance: Diffusion Model Sampling with Consistency](https://openreview.net/pdf?id=gWgaypDBs8) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+[[25] Representative Guidance: Diffusion Model Sampling with Consistency](https://openreview.net/pdf?id=gWgaypDBs8) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
 
 Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 
 *International Conference on Learning Representations (ICLR), 2025*
+
+[[Code]](https://github.com/dungdinhanh/rep-guidance)
 
 </div>
 </div>
@@ -144,11 +146,13 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ICLR2025-3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[25] Anti-Exposure Bias in Diffusion Models via Prompt Learning](https://openreview.net/pdf?id=MtDd7rWok1) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+[[24] Anti-Exposure Bias in Diffusion Models via Prompt Learning](https://openreview.net/pdf?id=MtDd7rWok1) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
 
 Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 
 *International Conference on Learning Representations (ICLR), 2025*
+
+[[Code]](https://github.com/BestJunYu/ANTI_EXPOSURE_BIAS)
 
 </div>
 </div>
@@ -159,7 +163,7 @@ Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/NAACL2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[24] CollagePrompt: A Benchmark for Budget-Friendly Visual Recognition with GPT-4V](https://openreview.net/pdf?id=bB1V17TgeU) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+[[23] CollagePrompt: A Benchmark for Budget-Friendly Visual Recognition with GPT-4V](https://openreview.net/pdf?id=bB1V17TgeU) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
 
 Siyu Xu, Yunke Wang, **Daochang Liu**, Bo Du, Chang Xu
 
@@ -179,7 +183,7 @@ Siyu Xu, Yunke Wang, **Daochang Liu**, Bo Du, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/TPAMI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[23] DiffAct++: Diffusion Action Segmentation](https://www.computer.org/csdl/journal/tp/5555/01/10772006/22gA5Z07dyE) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:dhFuZR0502QC'></span></strong>
+[[22] DiffAct++: Diffusion Action Segmentation](https://www.computer.org/csdl/journal/tp/5555/01/10772006/22gA5Z07dyE) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:dhFuZR0502QC'></span></strong>
 
 **Daochang Liu**, Qiyue Li, Anh-Dung Dinh, Tingting Jiang, Mubarak Shah, Chang Xu
 
@@ -194,7 +198,7 @@ Siyu Xu, Yunke Wang, **Daochang Liu**, Bo Du, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[22] Towards Memorization-Free Diffusion Models](https://arxiv.org/abs/2404.00922) 
+[[21] Towards Memorization-Free Diffusion Models](https://arxiv.org/abs/2404.00922) 
 <!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
  -->
 
@@ -213,7 +217,7 @@ Chen Chen, **Daochang Liu**, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/ICML2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[21] Bridging Data Gaps in Diffusion Models with Adversarial Noise-Based Transfer Learning](https://openreview.net/pdf?id=PpBs2iL0jv) 
+[[20] Bridging Data Gaps in Diffusion Models with Adversarial Noise-Based Transfer Learning](https://openreview.net/pdf?id=PpBs2iL0jv) 
 <!-- <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
  -->
 
@@ -229,7 +233,7 @@ Xiyu Wang, Baijiong Lin, **Daochang Liu**, Ying-Cong Chen, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[20] Residual Learning in Diffusion Models](https://openreview.net/pdf?id=EHX9Zg0zW8) 
+[[19] Residual Learning in Diffusion Models](https://openreview.net/pdf?id=EHX9Zg0zW8) 
 
 Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 
@@ -243,7 +247,7 @@ Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/IJCAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[19] Boosting Diffusion Models with an Adaptive Momentum Sampler](https://arxiv.org/abs/2308.11941) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:MXK_kJrjxJIC'></span></strong>
+[[18] Boosting Diffusion Models with an Adaptive Momentum Sampler](https://arxiv.org/abs/2308.11941) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:MXK_kJrjxJIC'></span></strong>
 
 Xiyu Wang, Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 
@@ -257,7 +261,7 @@ Xiyu Wang, Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[18] Diffusion Action Segmentation](https://arxiv.org/abs/2303.17959) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
+[[17] Diffusion Action Segmentation](https://arxiv.org/abs/2303.17959) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:hqOjcs7Dif8C'></span></strong>
 
 **Daochang Liu**, Qiyue Li, Anh-Dung Dinh, Tingting Jiang, Mubarak Shah, Chang Xu
 
@@ -274,7 +278,7 @@ Xiyu Wang, Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[17] Rethinking Conditional Diffusion Sampling with Progressive Guidance](https://neurips.cc/virtual/2023/poster/70851) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
+[[16] Rethinking Conditional Diffusion Sampling with Progressive Guidance](https://neurips.cc/virtual/2023/poster/70851) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_kc_bZDykSQC'></span></strong>
 
 Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 
@@ -289,7 +293,7 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[16] Contrastive Sampling Chains in Diffusion Models](https://neurips.cc/virtual/2023/poster/71042) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YOwf2qJgpHMC'></span></strong>
+[[15] Contrastive Sampling Chains in Diffusion Models](https://neurips.cc/virtual/2023/poster/71042) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YOwf2qJgpHMC'></span></strong>
 
 Junyu Zhang,**Daochang Liu**, Shichao Zhang, Chang Xu
 
@@ -304,7 +308,7 @@ Junyu Zhang,**Daochang Liu**, Shichao Zhang, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[15] Personalized Image Generation for Color Vision Deficiency Population](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Personalized_Image_Generation_for_Color_Vision_Deficiency_Population_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:8k81kl-MbHgC'></span></strong>
+[[14] Personalized Image Generation for Color Vision Deficiency Population](https://openaccess.thecvf.com/content/ICCV2023/html/Jiang_Personalized_Image_Generation_for_Color_Vision_Deficiency_Population_ICCV_2023_paper.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:8k81kl-MbHgC'></span></strong>
 
 Shuyi Jiang, **Daochang Liu**, Dingquan Li, Chang Xu
 
@@ -320,7 +324,7 @@ Shuyi Jiang, **Daochang Liu**, Dingquan Li, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/ICML2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[14] PixelAsParam: A Gradient View on Diffusion Sampling with Guidance](https://proceedings.mlr.press/v202/dinh23a.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:5nxA0vEk-isC'></span></strong>
+[[13] PixelAsParam: A Gradient View on Diffusion Sampling with Guidance](https://proceedings.mlr.press/v202/dinh23a.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:5nxA0vEk-isC'></span></strong>
 
 Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 
@@ -336,7 +340,7 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/CVPR2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[13] Private Image Generation with Dual-Purpose Auxiliary Classifier](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Private_Image_Generation_With_Dual-Purpose_Auxiliary_Classifier_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:0EnyYjriUFMC'></span></strong>
+[[12] Private Image Generation with Dual-Purpose Auxiliary Classifier](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Private_Image_Generation_With_Dual-Purpose_Auxiliary_Classifier_CVPR_2023_paper.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:0EnyYjriUFMC'></span></strong>
 
 Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 
@@ -369,7 +373,7 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[12] Contrastive Code-Comment Pre-training](https://ieeexplore.ieee.org/document/10027715) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
+[[11] Contrastive Code-Comment Pre-training](https://ieeexplore.ieee.org/document/10027715) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
 
 Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
@@ -388,7 +392,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[11] Towards Unified Surgical Skill Assessment](https://arxiv.org/abs/2106.01035) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
+[[10] Towards Unified Surgical Skill Assessment](https://arxiv.org/abs/2106.01035) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YsMSGLbcyi4C'></span></strong>
 
 **Daochang Liu**, Qiyue Li, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
 
@@ -405,7 +409,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2020</div><img src='images/MICCAI20.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[10] Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion](http://www.vie.group/media/pdf/paper204.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Y0pCki6q_DkC'></span></strong>
+[[9] Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion](http://www.vie.group/media/pdf/paper204.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Y0pCki6q_DkC'></span></strong>
 
 **Daochang Liu\***, Yuhui Wei\*, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
 
@@ -421,7 +425,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCARS 2020</div><img src='images/IJCARS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[9] Clearness of Operating Field: A Surrogate for Surgical Skills on In-Vivo Clinical Data](http://www.vie.group/media/pdf/IJCARS.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:W7OEmFMy1HYC'></span></strong>
+[[8] Clearness of Operating Field: A Surrogate for Surgical Skills on In-Vivo Clinical Data](http://www.vie.group/media/pdf/IJCARS.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:W7OEmFMy1HYC'></span></strong>
 
 **Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
 
@@ -435,7 +439,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/CVPR19.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[8] Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization](http://www.vie.group/media/pdf/1273.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:qjMakFHDy7sC'></span></strong>
+[[7] Completeness Modeling and Context Separation for Weakly Supervised Temporal Action Localization](http://www.vie.group/media/pdf/1273.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:qjMakFHDy7sC'></span></strong>
 
 **Daochang Liu**, Tingting Jiang, Yizhou Wang
 
@@ -450,7 +454,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2019</div><img src='images/MICCAI19.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[7] Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field](http://www.vie.group/media/pdf/paper37.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:zYLM7Y9cAGgC'></span></strong>
+[[6] Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field](http://www.vie.group/media/pdf/paper37.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:zYLM7Y9cAGgC'></span></strong>
 
 **Daochang Liu**, Tingting Jiang, Yizhou Wang, Rulin Miao, Fei Shan, Ziyu Li
 
@@ -466,7 +470,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2018</div><img src='images/MICCAI18.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[[6] Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification](http://www.vie.group/media/pdf/paper.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:9yKSN-GCB0IC'></span></strong>
+[[5] Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification](http://www.vie.group/media/pdf/paper.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 **Daochang Liu**, Tingting Jiang
 
@@ -478,15 +482,15 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 </div>
 
 
-- [[5] Beyond Pretrained Features: Noisy Image Modeling Provides Adversarial Defense](https://neurips.cc/virtual/2023/poster/70490)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zunzhi You, **Daochang Liu**, Chang Xu. *Conference on Neural Information Processing Systems (NeurIPS), 2023*, [[Code]](https://github.com/youzunzhi/NIM-AdvDef)
+- [[4] Beyond Pretrained Features: Noisy Image Modeling Provides Adversarial Defense](https://neurips.cc/virtual/2023/poster/70490)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zunzhi You, **Daochang Liu**, Chang Xu. *Conference on Neural Information Processing Systems (NeurIPS), 2023*, [[Code]](https://github.com/youzunzhi/NIM-AdvDef)
 
-- [[4] Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution](https://arxiv.org/abs/2212.14046)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:ufrVoPGSRksC'></span></strong>, Zhongwei Qiu, Huan Yang, Jianlong Fu, **Daochang Liu**, Chang Xu, Dongmei Fu. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023*, [[Code]](https://github.com/researchmm/FTVSR)
+- [[3] Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution](https://arxiv.org/abs/2212.14046)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:ufrVoPGSRksC'></span></strong>, Zhongwei Qiu, Huan Yang, Jianlong Fu, **Daochang Liu**, Chang Xu, Dongmei Fu. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023*, [[Code]](https://github.com/researchmm/FTVSR)
 
-- [[3] Calibrating a Deep Neural Network with Its Predecessors](https://arxiv.org/abs/2302.06245)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Linwei Tao, Minjing Dong, **Daochang Liu**, Changming Sun, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2023*, [[Code]](https://github.com/Linwei94/PCS) [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
+- [[2] Calibrating a Deep Neural Network with Its Predecessors](https://arxiv.org/abs/2302.06245)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Linwei Tao, Minjing Dong, **Daochang Liu**, Changming Sun, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2023*, [[Code]](https://github.com/Linwei94/PCS) [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
 
-- [[2] Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark](https://www.sciencedirect.com/science/article/pii/S1361841523000312)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Se3iqnhoufwC'></span></strong>, Martin Wagner, ..., **Daochang Liu**, ..., Sebastian Bodenstedt. *Medical Image Analysis (MedIA), 2023*, [[Dataset]](https://endovissub-workflowandskill.grand-challenge.org/)
+- [[1] Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark](https://www.sciencedirect.com/science/article/pii/S1361841523000312)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Se3iqnhoufwC'></span></strong>, Martin Wagner, ..., **Daochang Liu**, ..., Sebastian Bodenstedt. *Medical Image Analysis (MedIA), 2023*, [[Dataset]](https://endovissub-workflowandskill.grand-challenge.org/)
 
-- [1] Surgical Skill Assessment Method and Device, Tingting Jiang, Ziyu Li, **Daochang Liu**, Qiyue Li, Yizhou Wang, Rulin Miao, Fei Shan. *China Patent (ZL202110443748.9)*
+<!-- - [1] Surgical Skill Assessment Method and Device, Tingting Jiang, Ziyu Li, **Daochang Liu**, Qiyue Li, Yizhou Wang, Rulin Miao, Fei Shan. *China Patent (ZL202110443748.9)* -->
 
 
 
