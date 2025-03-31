@@ -284,7 +284,7 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 
 *Conference on Neural Information Processing Systems (NeurIPS), 2023*
 
-<!-- [[Code]](https://github.com/dungdinhanh/prog-guided-diffusion) -->
+[[Code]](https://github.com/dungdinhanh/prog-guided-diffusion)
 
 </div>
 </div>
