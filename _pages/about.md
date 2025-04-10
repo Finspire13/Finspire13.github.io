@@ -21,10 +21,10 @@ redirect_from:
 I am a Lecturer (Assistant Professor) at School of Physics, Mathematics and Computing, [The University of Western Australia](https://www.uwa.edu.au/schools/physics-mathematics-computing). 
 I was a postdoctoral researcher in A/Prof Chang Xu's group at the School of Computer Science, The University of Sydney.
 I obtained a PhD degree from Peking University supervised by A/Prof Tingting Jiang and Prof Yizhou Wang.
-My research interests lie in generative artificial intelligence, computer vision, human action and skill understanding, also with interdisciplinary applications in healthcare data science.
+My research interests lie in generative artificial intelligence, computer vision, human action and skill understanding, and interdisciplinary applications.
 
 
-**I am actively looking for PhD/MPhil/Visiting students and research interns. If you are interested in working with me, please feel free to contact me.**
+**I am actively looking for PhD/MPhil/Visiting students and research interns. If you are interested in working with me, please feel free to contact me. (UWA PhD Scholarship Application Due: International 31 August, Domestic 31 October)**
 
 
 <!-- I obtained a PhD degree from Peking University supervised by A/Prof [Tingting Jiang](http://www.vie.group/ttj) and Prof [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
