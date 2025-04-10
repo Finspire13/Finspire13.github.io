@@ -582,8 +582,6 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 # -
 
-**Contact:** daochang.liu at sydney.edu.au, finspire13 at gmail.com
-
 **Last Update:** April 2025
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EPHsmQIJLbnhIay_lL2JI0tJ1EPMrLTnAPwg8zuvHkY&cl=ffffff&w=300"></script>
