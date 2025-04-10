@@ -53,6 +53,7 @@ My research interests lie in generative artificial intelligence, computer vision
 <!-- <span class='anchor' id='news'></span> -->
 
 # 🔥 News
+- *2025.04*: I will be an Area Chair for NeurIPS 2025.
 - *2025.03*: One paper accepted to CVPR 2025.
 - *2025.01*: Our new survey on "Physical AI" is now on [arxiv](https://arxiv.org/abs/2501.10928).
 - *2025.01*: Three papers accepted to ICLR 2025.
