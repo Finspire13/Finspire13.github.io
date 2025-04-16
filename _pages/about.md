@@ -21,7 +21,7 @@ redirect_from:
 I am a Lecturer (Assistant Professor) at School of Physics, Mathematics and Computing, [The University of Western Australia](https://www.uwa.edu.au/schools/physics-mathematics-computing). 
 I was a postdoctoral researcher in A/Prof Chang Xu's group at the School of Computer Science, The University of Sydney.
 I obtained a PhD degree from Peking University supervised by A/Prof Tingting Jiang and Prof Yizhou Wang.
-My research interests lie in generative artificial intelligence, computer vision, human action and skill understanding, and interdisciplinary applications.
+My research interests lie in computer vision, generative artificial intelligence, human action and skill understanding, and interdisciplinary applications.
 
 
 **I am actively looking for PhD/MPhil/Visiting students and research interns. If you are interested in working with me, please feel free to contact me. (UWA PhD Scholarship Application Due: International 31 August, Domestic 31 October)**
@@ -572,10 +572,11 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 # ♥️ Services
 
+- *2025*, Area Chair of Conference on Neural Information Processing Systems (NeurIPS)
 - *2024*, Chair of The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models at ACM MM 2024
 - *2024*, Area Chair of International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 - *2024*, Co-Chair of IJCNN 2024 Special Session “Efficiency, Security, and Generalization of Foundation Models"
-- *2023*, Co-Organizer of Coding Fest USYD & Macquarie Workshop
+<!-- - *2023*, Co-Organizer of Coding Fest USYD & Macquarie Workshop -->
 - *2022*, Local Arrangement Chair and Session Chair of The International Conference on Digital Image Computing: Techniques and Applications (DICTA)
 - Program Committee Member of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, MICCAI, ACM MM, BMVC, AAAI, IJCAI, KDD, ICDM, DICTA
 - Reviewer of IJCV, TPAMI, TMI, TMM, TCSVT, TNNLS, CVIU, TMLR, Pattern Recognition, IEEE Access
