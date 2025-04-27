@@ -108,6 +108,9 @@ My research interests lie in computer vision, generative artificial intelligence
 Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025*
+
+[[Code]](https://github.com/chenchen-usyd/BE-PRSS)
+
 </div>
 </div>
 
@@ -121,6 +124,8 @@ Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 
 *International Conference on Learning Representations (ICLR), 2025*
+
+[[Project]](https://chenchen-usyd.github.io/BE-Project-Page/) [[Code]](https://github.com/chenchen-usyd/BE-PRSS) [[Video]](https://www.youtube.com/watch?v=JTwmwSDVSTM)
 
 </div>
 </div>
