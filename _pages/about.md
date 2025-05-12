@@ -84,7 +84,7 @@ My research interests lie in computer vision, generative artificial intelligence
 
 <br>
 
-# 📝 Selected Publications (Full list on [Google Scholar](https://scholar.google.com/citations?user=ElujT6oAAAAJ&hl=en))
+# 📝 Selected Publications (Full list: [Link](https://scholar.google.com/citations?user=ElujT6oAAAAJ&hl=en))
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
