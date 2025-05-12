@@ -84,7 +84,7 @@ My research interests lie in computer vision, generative artificial intelligence
 
 <br>
 
-# 📝 Research
+# 📝 Selected Publications (Full list on [Google Scholar](https://scholar.google.com/citations?user=ElujT6oAAAAJ&hl=en))
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
@@ -166,7 +166,7 @@ Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/NAACL2025.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025</div><img src='images/NAACL2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[23] CollagePrompt: A Benchmark for Budget-Friendly Visual Recognition with GPT-4V](https://openreview.net/pdf?id=bB1V17TgeU) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
@@ -180,7 +180,7 @@ Siyu Xu, Yunke Wang, **Daochang Liu**, Bo Du, Chang Xu
 
 </div>
 </div>
-
+ -->
 
 
 
@@ -250,7 +250,7 @@ Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/IJCAI2024.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/IJCAI2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[18] Boosting Diffusion Models with an Adaptive Momentum Sampler](https://arxiv.org/abs/2308.11941) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:MXK_kJrjxJIC'></span></strong>
@@ -260,7 +260,7 @@ Xiyu Wang, Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 *International Joint Conference on Artificial Intelligence (IJCAI), 2024*
 
 </div>
-</div>
+</div> -->
 
 
 
@@ -412,7 +412,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2020</div><img src='images/MICCAI20.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2020</div><img src='images/MICCAI20.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[9] Unsupervised Surgical Instrument Segmentation via Anchor Generation and Semantic Diffusion](http://www.vie.group/media/pdf/paper204.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Y0pCki6q_DkC'></span></strong>
@@ -424,11 +424,11 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 [[Code]](https://github.com/Finspire13/AGSD-Surgical-Instrument-Segmentation) [[Slides]](http://www.vie.group/media/pdf/MICCAI_2020_Slides.pdf) [[Poster]](http://www.vie.group/media/pdf/Abstract_204.pdf)
 
 </div>
-</div>
+</div> -->
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCARS 2020</div><img src='images/IJCARS.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCARS 2020</div><img src='images/IJCARS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[8] Clearness of Operating Field: A Surrogate for Surgical Skills on In-Vivo Clinical Data](http://www.vie.group/media/pdf/IJCARS.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:W7OEmFMy1HYC'></span></strong>
@@ -438,7 +438,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 *International Journal of Computer Assisted Radiology and Surgery (IJCARS), 2020*
 
 </div>
-</div>
+</div> -->
 
 
 
@@ -457,7 +457,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2019</div><img src='images/MICCAI19.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2019</div><img src='images/MICCAI19.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[6] Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field](http://www.vie.group/media/pdf/paper37.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:zYLM7Y9cAGgC'></span></strong>
@@ -470,10 +470,10 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 </div>
 </div>
+ -->
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2018</div><img src='images/MICCAI18.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2018</div><img src='images/MICCAI18.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[5] Deep Reinforcement Learning for Surgical Gesture Segmentation and Classification](http://www.vie.group/media/pdf/paper.pdf) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:9yKSN-GCB0IC'></span></strong>
@@ -485,16 +485,16 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 [[Code]](https://github.com/Finspire13/RL-Surgical-Gesture-Segmentation) [[Poster]](http://www.vie.group/media/pdf/MICCAI_Poster_v7.pdf)
 
 </div>
-</div>
+</div> -->
 
 
-- [[4] Beyond Pretrained Features: Noisy Image Modeling Provides Adversarial Defense](https://neurips.cc/virtual/2023/poster/70490)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zunzhi You, **Daochang Liu**, Chang Xu. *Conference on Neural Information Processing Systems (NeurIPS), 2023*, [[Code]](https://github.com/youzunzhi/NIM-AdvDef)
+<!-- - [[4] Beyond Pretrained Features: Noisy Image Modeling Provides Adversarial Defense](https://neurips.cc/virtual/2023/poster/70490)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:LkGwnXOMwfcC'></span></strong>, Zunzhi You, **Daochang Liu**, Chang Xu. *Conference on Neural Information Processing Systems (NeurIPS), 2023*, [[Code]](https://github.com/youzunzhi/NIM-AdvDef) -->
 
-- [[3] Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution](https://arxiv.org/abs/2212.14046)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:ufrVoPGSRksC'></span></strong>, Zhongwei Qiu, Huan Yang, Jianlong Fu, **Daochang Liu**, Chang Xu, Dongmei Fu. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023*, [[Code]](https://github.com/researchmm/FTVSR)
+<!-- - [[3] Learning Spatiotemporal Frequency-Transformer for Low-Quality Video Super-Resolution](https://arxiv.org/abs/2212.14046)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:ufrVoPGSRksC'></span></strong>, Zhongwei Qiu, Huan Yang, Jianlong Fu, **Daochang Liu**, Chang Xu, Dongmei Fu. *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023*, [[Code]](https://github.com/researchmm/FTVSR) -->
 
-- [[2] Calibrating a Deep Neural Network with Its Predecessors](https://arxiv.org/abs/2302.06245)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Linwei Tao, Minjing Dong, **Daochang Liu**, Changming Sun, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2023*, [[Code]](https://github.com/Linwei94/PCS) [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing)
+<!-- - [[2] Calibrating a Deep Neural Network with Its Predecessors](https://arxiv.org/abs/2302.06245)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:roLk4NBRz8UC'></span></strong>, Linwei Tao, Minjing Dong, **Daochang Liu**, Changming Sun, Chang Xu. *International Joint Conference on Artificial Intelligence (IJCAI), 2023*, [[Code]](https://github.com/Linwei94/PCS) [[Playground]](https://colab.research.google.com/drive/1TjwzG962eyOF51zzqlWLwv3Wq-lgMHZM?usp=sharing) -->
 
-- [[1] Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark](https://www.sciencedirect.com/science/article/pii/S1361841523000312)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Se3iqnhoufwC'></span></strong>, Martin Wagner, ..., **Daochang Liu**, ..., Sebastian Bodenstedt. *Medical Image Analysis (MedIA), 2023*, [[Dataset]](https://endovissub-workflowandskill.grand-challenge.org/)
+<!-- - [[1] Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark](https://www.sciencedirect.com/science/article/pii/S1361841523000312)<strong><span class='show_paper_citations' data='ElujT6oAAAAJ:Se3iqnhoufwC'></span></strong>, Martin Wagner, ..., **Daochang Liu**, ..., Sebastian Bodenstedt. *Medical Image Analysis (MedIA), 2023*, [[Dataset]](https://endovissub-workflowandskill.grand-challenge.org/) -->
 
 <!-- - [1] Surgical Skill Assessment Method and Device, Tingting Jiang, Ziyu Li, **Daochang Liu**, Qiyue Li, Yizhou Wang, Rulin Miao, Fei Shan. *China Patent (ZL202110443748.9)* -->
 
