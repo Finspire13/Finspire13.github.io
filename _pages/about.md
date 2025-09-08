@@ -53,11 +53,11 @@ My research interests lie in computer vision, generative artificial intelligence
 <!-- <span class='anchor' id='news'></span> -->
 
 # 🔥 News
+- *2025.08*: I will be an Area Chair for ICLR 2026.
 - *2025.06*: One paper accepted to MICCAI 2025.
 - *2025.04*: I will be an Area Chair for NeurIPS 2025.
 - *2025.03*: One paper accepted to CVPR 2025.
 - *2025.01*: Our new survey on "Physical AI" is now on [arxiv](https://arxiv.org/abs/2501.10928).
-- *2025.01*: Three papers accepted to ICLR 2025.
 
 <!-- <span class='anchor' id='publications'></span> -->
 
@@ -577,6 +577,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 # ♥️ Services
 
+- *2025*, Area Chair of International Conference on Learning Representations (ICLR)
 - *2025*, Area Chair of Conference on Neural Information Processing Systems (NeurIPS)
 - *2024*, Chair of The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models at ACM MM 2024
 - *2024*, Area Chair of International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
@@ -588,6 +589,6 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 # -
 
-**Last Update:** April 2025
+**Last Update:** August 2025
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EPHsmQIJLbnhIay_lL2JI0tJ1EPMrLTnAPwg8zuvHkY&cl=ffffff&w=300"></script>
