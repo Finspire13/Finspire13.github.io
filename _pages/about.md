@@ -24,7 +24,7 @@ I obtained a PhD degree from Peking University supervised by A/Prof Tingting Jia
 My research interests lie in computer vision, generative artificial intelligence, human action and skill understanding, and interdisciplinary applications.
 
 
-**I am actively looking for PhD/MPhil/Visiting students and research interns. If you are interested in working with me, please feel free to contact me. (UWA PhD Scholarship Application Due: International 31 August, Domestic 31 October)**
+**I am actively looking for PhD/MPhil/Visiting students and research interns. If you are interested in working with me, please feel free to contact me. (UWA PhD Scholarship Application Due: International 31 August, Domestic 31 October, UWA-CSC PhD Application Due: 30 January.)**
 
 
 <!-- I obtained a PhD degree from Peking University supervised by A/Prof [Tingting Jiang](http://www.vie.group/ttj) and Prof [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
