@@ -86,6 +86,16 @@ My research interests lie in computer vision, generative artificial intelligence
 
 # 📝 Selected Publications (Full list: [Link](https://scholar.google.com/citations?user=ElujT6oAAAAJ&hl=en))
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/yutongpaper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Physical Plausibility in Video Generation by Reasoning the Implausibility](https://arxiv.org/abs/2509.24702) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
+
+Yutong Hao, Chen Chen, Ajmal Saeed Mian, Chang Xu, **Daochang Liu**
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
