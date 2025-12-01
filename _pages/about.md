@@ -52,12 +52,12 @@ My research interests lie in computer vision, generative learning, human action 
 
 <!-- <span class='anchor' id='news'></span> -->
 
-# 🔥 News
+<!-- # 🔥 News
 - *2025.08*: I will be an Area Chair for ICLR 2026.
 - *2025.06*: One paper accepted to MICCAI 2025.
 - *2025.04*: I will be an Area Chair for NeurIPS 2025.
 - *2025.03*: One paper accepted to CVPR 2025.
-- *2025.01*: Our new survey on "Physical AI" is now on [arxiv](https://arxiv.org/abs/2501.10928).
+- *2025.01*: Our new survey on "Physical AI" is now on [arxiv](https://arxiv.org/abs/2501.10928). -->
 
 <!-- <span class='anchor' id='publications'></span> -->
 
@@ -589,11 +589,11 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 - *2025*, Area Chair of International Conference on Learning Representations (ICLR)
 - *2025*, Area Chair of Conference on Neural Information Processing Systems (NeurIPS)
-- *2024*, Chair of The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models at ACM MM 2024
 - *2024*, Area Chair of International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
+- *2024*, Chair of The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models at ACM MM 2024
 - *2024*, Co-Chair of IJCNN 2024 Special Session “Efficiency, Security, and Generalization of Foundation Models"
 <!-- - *2023*, Co-Organizer of Coding Fest USYD & Macquarie Workshop -->
-- *2022*, Local Arrangement Chair and Session Chair of The International Conference on Digital Image Computing: Techniques and Applications (DICTA)
+- *2022*, Local Chair of The International Conference on Digital Image Computing: Techniques and Applications (DICTA)
 - Program Committee Member of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, MICCAI, ACM MM, BMVC, AAAI, IJCAI, KDD, ICDM, DICTA
 - Reviewer of IJCV, TPAMI, TMI, TMM, TCSVT, TNNLS, CVIU, TMLR, Pattern Recognition, IEEE Access
 
