@@ -23,7 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Daochang Liu"
   # avatar           : "images/photo_large.jpg"
-  avatar           : "images/WX20250705-222431.png"
+  # avatar           : "images/WX20250705-222431.png"
+  avatar           : "images/my_photo.jpeg"
   # avatar             : "images/IMG_1458 2.jpg"
   # bio              : "Generative AI / Surgical AI"
   # bio              : "Generative Surgical AI"
