@@ -386,7 +386,7 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDM 2022</div><img src='images/ICDM2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[11] Contrastive Code-Comment Pre-training](https://ieeexplore.ieee.org/document/10027715) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:_FxGoFyzp5QC'></span></strong>
@@ -400,7 +400,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 [[Code]](https://github.com/TerryPei/C3P)
 
 </div>
-</div>
+</div> -->
 
 
 
