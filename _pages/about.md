@@ -245,7 +245,7 @@ Xiyu Wang, Baijiong Lin, **Daochang Liu**, Ying-Cong Chen, Chang Xu
 </div>
 
 
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR2024-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -256,7 +256,7 @@ Junyu Zhang, **Daochang Liu**, Eunbyung Park, Shichao Zhang, Chang Xu
 *IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024*
 
 </div>
-</div>
+</div> -->
 
 
 
@@ -306,19 +306,19 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023-2.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/NeurIPS2023-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[15] Contrastive Sampling Chains in Diffusion Models](https://neurips.cc/virtual/2023/poster/71042) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:YOwf2qJgpHMC'></span></strong>
 
-Junyu Zhang,**Daochang Liu**, Shichao Zhang, Chang Xu
+Junyu Zhang, **Daochang Liu**, Shichao Zhang, Chang Xu
 
 *Conference on Neural Information Processing Systems (NeurIPS), 2023*
 
 [[Code]](https://github.com/BestJunYu/Contrastive-Sampling)
 
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-2.png' alt="sym" width="100%"></div></div>
@@ -352,7 +352,7 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 </div>
 
 
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/CVPR2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -365,7 +365,7 @@ Chen Chen, **Daochang Liu**, Siqi Ma, Surya Nepal, Chang Xu
 [[Code]](https://github.com/chenchen-usyd/DP-GAN-DPAC) [[Video]](https://www.youtube.com/watch?v=ZsjYIZ2s0fw)
 
 </div>
-</div>
+</div> -->
 
 
 
@@ -523,15 +523,15 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2024*, Co-supervisor for INFO2911 IT Special Project, The University of Sydney
  -->
 
-<!-- <span class='anchor' id='awards'></span>
 
-# 🎖 Awards
-- *2022*, ICDM Best Student Paper Award, 1 out of 885
-- *2021*, Peking University Tianchuang Scholarship, Top 5% PhDs
-- *2020*, Microsoft Research Asia Fellowship Nomination, Top 25 PhDs in Asia-Pacific
-- *2019*, Peking University Principle's Scholarship, Top 5% PhDs
-- *2019*, Peking University Academic Innovation Award, Top 3% PhDs
-- *2017*, Shanghai Outstanding Bachelor Graduate, Top 2% Graduates -->
+
+<!-- - *2021*, Peking University Tianchuang Scholarship, Top 5% PhDs -->
+<!-- - *2020*, Microsoft Research Asia Fellowship Nomination, Top 25 PhDs in Asia-Pacific -->
+<!-- - *2019*, Peking University Principle's Scholarship, Top 5% PhDs -->
+<!-- - *2019*, Peking University Academic Innovation Award, Top 3% PhDs -->
+<!-- - *2017*, Shanghai Outstanding Bachelor Graduate, Top 2% Graduates -->
+
+
 
 <!-- <span class='anchor' id='talks'></span>
 
@@ -544,7 +544,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2020*, "Computer-Aided Surgical Skill Assessment", Microsoft Research Asia
 - *2019*, "Surgical Skill Assessment on In-Vivo Clinical Data via the Clearness of Operating Field", MICCAI -->
 
-<span class='anchor' id='grants'></span>
+<!-- <span class='anchor' id='grants'></span> -->
 
 <!-- # 🌟 Grants -->
 
@@ -585,20 +585,32 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 <span class='anchor' id='services'></span>
 
-# ♥️ Services
+# ♥️ Selected Services
 
-- *2025*, Area Chair of International Conference on Learning Representations (ICLR)
-- *2025*, Area Chair of Conference on Neural Information Processing Systems (NeurIPS)
-- *2024*, Area Chair of International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
-- *2024*, Chair of The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models at ACM MM 2024
-- *2024*, Co-Chair of IJCNN 2024 Special Session “Efficiency, Security, and Generalization of Foundation Models"
+- *2026*, Program Chair of Digital Image Computing: Techniques and Applications (DICTA)
+- *2025-now*, Area Chair of Conference on Neural Information Processing Systems (NeurIPS)
+- *2025-now*, Area Chair of International Conference on Learning Representations (ICLR)
+- *2024-now*, Area Chair of International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
+<!-- - *2024*, Chair of The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models at ACM MM 2024 -->
+<!-- - *2024*, Co-Chair of IJCNN 2024 Special Session “Efficiency, Security, and Generalization of Foundation Models" -->
 <!-- - *2023*, Co-Organizer of Coding Fest USYD & Macquarie Workshop -->
-- *2022*, Local Chair of The International Conference on Digital Image Computing: Techniques and Applications (DICTA)
-- Program Committee Member of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, MICCAI, ACM MM, BMVC, AAAI, IJCAI, KDD, ICDM, DICTA
-- Reviewer of IJCV, TPAMI, TMI, TMM, TCSVT, TNNLS, CVIU, TMLR, Pattern Recognition, IEEE Access
+<!-- - *2022*, Local Chair of The International Conference on Digital Image Computing: Techniques and Applications (DICTA) -->
+<!-- - Program Committee Member of CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, MICCAI, ACM MM, BMVC, AAAI, IJCAI, KDD, ICDM, DICTA -->
+<!-- - Reviewer of IJCV, TPAMI, TMI, TMM, TCSVT, TNNLS, CVIU, TMLR, Pattern Recognition, IEEE Access -->
 
-# -
 
-**Last Update:** August 2025
+<span class='anchor' id='awards'></span>
+
+# 🎖 Selected Honors and Awards
+- *2026*, NVIDIA Academic Grant Award
+- *2025*, APRS Early Career Researcher Award Honorable Mention
+- *2024*, NCI National AI Flagship Scheme Grant
+- *2024*, Digital Sciences Initiative Ignite Award
+- *2022*, ICDM Best Student Paper Award
+- *2020*, Microsoft Research Asia Fellowship Nomination
+
+
+
+**Last Update:** April 2026
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EPHsmQIJLbnhIay_lL2JI0tJ1EPMrLTnAPwg8zuvHkY&cl=ffffff&w=300"></script>
