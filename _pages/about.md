@@ -53,7 +53,7 @@ My research interests lie in computer vision, generative learning, video underst
 
 <!-- <span class='anchor' id='news'></span> -->
 
-# 🔥 News
+# News
 - *2026.04*: One paper accepted to T-PAMI.
 - *2026.04*: Two papers accepted to T-MM.
 
@@ -83,7 +83,7 @@ My research interests lie in computer vision, generative learning, video underst
 
 <br>
 
-# 📝 Selected Publications (Full list: [Link](https://scholar.google.com/citations?user=ElujT6oAAAAJ&hl=en))
+# Selected Publications (Full list: [Link](https://scholar.google.com/citations?user=ElujT6oAAAAJ&hl=en))
 
 <!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/yutongpaper.png' alt="sym" width="100%"></div></div>
@@ -126,7 +126,7 @@ Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ICLR2025-1.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/ICLR2025-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[26] Exploring Local Memorization in Diffusion Models via Bright Ending Attention](https://openreview.net/pdf?id=p4cLtzk4oe) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:'></span></strong>
@@ -138,7 +138,7 @@ Chen Chen, **Daochang Liu**, Mubarak Shah, Chang Xu
 [[Project]](https://chenchen-usyd.github.io/BE-Project-Page/) [[Code]](https://github.com/chenchen-usyd/BE-PRSS) [[Video]](https://www.youtube.com/watch?v=JTwmwSDVSTM)
 
 </div>
-</div>
+</div> -->
 
 
 
@@ -320,7 +320,7 @@ Junyu Zhang, **Daochang Liu**, Shichao Zhang, Chang Xu
 </div>
 </div> -->
 
-
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV2023-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -333,11 +333,11 @@ Shuyi Jiang, **Daochang Liu**, Dingquan Li, Chang Xu
 [[Code]](https://github.com/Jiangshuyi0V0/CVD-GAN)
 
 </div>
-</div>
+</div> -->
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/ICML2023.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/ICML2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [[13] PixelAsParam: A Gradient View on Diffusion Sampling with Guidance](https://proceedings.mlr.press/v202/dinh23a.html) <strong><span class='show_paper_citations' data='ElujT6oAAAAJ:5nxA0vEk-isC'></span></strong>
@@ -349,7 +349,7 @@ Anh-Dung Dinh, **Daochang Liu**, Chang Xu
 [[Code]](https://github.com/dungdinhanh/pxpguided-diffusion)
 
 </div>
-</div>
+</div> -->
 
 
 <!-- 
@@ -585,7 +585,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 <span class='anchor' id='services'></span>
 
-# ♥️ Selected Services
+# Selected Services
 
 - *2026*, Program Chair of Digital Image Computing: Techniques and Applications (DICTA)
 - *2025-now*, Area Chair of Conference on Neural Information Processing Systems (NeurIPS)
@@ -601,7 +601,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 <span class='anchor' id='awards'></span>
 
-# 🎖 Selected Honors and Awards
+# Selected Honors and Awards
 - *2026*, NVIDIA Academic Grant Award
 - *2025*, APRS Early Career Researcher Award Honorable Mention
 - *2024*, NCI National AI Flagship Scheme Grant
