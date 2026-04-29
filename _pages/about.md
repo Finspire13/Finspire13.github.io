@@ -601,7 +601,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 
 <span class='anchor' id='awards'></span>
 
-# Selected Honors and Awards
+# Selected Awards
 - *2026*, NVIDIA Academic Grant Award
 - *2025*, APRS Early Career Researcher Award Honorable Mention
 - *2024*, NCI National AI Flagship Scheme Grant
