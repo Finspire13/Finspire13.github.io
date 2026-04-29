@@ -18,14 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a Lecturer (Assistant Professor) at School of Physics, Mathematics and Computing, [The University of Western Australia](https://www.uwa.edu.au/schools/physics-mathematics-computing). 
+I am a Lecturer (Assistant Professor) at School of Physics, Mathematics and Computing, [The University of Western Australia](https://research-repository.uwa.edu.au/en/persons/daochang-liu/). 
 I was a postdoctoral researcher in A/Prof Chang Xu's group at the School of Computer Science, The University of Sydney.
 I obtained a PhD degree from Peking University.
 My research interests lie in computer vision, generative learning, video understanding and generation, and healthcare applications.
 
 
-**I am actively looking for PhD/MPhil/Visiting students and research interns. If you are interested in working with me, please feel free to contact me. (UWA PhD Scholarship Application Due: International 31 August, Domestic 31 October, UWA-CSC PhD Application Due: 30 January.)**
+**I am actively looking for PhD/MPhil/Visiting students and research interns. If you are interested in working with me, please feel free to contact me.**
 
+<!-- (UWA PhD Scholarship Application Due: International 31 August, Domestic 31 October, UWA-CSC PhD Application Due: 30 January.) -->
 
 <!-- I obtained a PhD degree from Peking University supervised by A/Prof [Tingting Jiang](http://www.vie.group/ttj) and Prof [Yizhou Wang](https://cfcs.pku.edu.cn/english/people/faculty/yizhouwang/index.htm), and a Bachelor of Engineering from Tongji University. 
  -->
@@ -52,12 +53,10 @@ My research interests lie in computer vision, generative learning, video underst
 
 <!-- <span class='anchor' id='news'></span> -->
 
-<!-- # 🔥 News
-- *2025.08*: I will be an Area Chair for ICLR 2026.
-- *2025.06*: One paper accepted to MICCAI 2025.
-- *2025.04*: I will be an Area Chair for NeurIPS 2025.
-- *2025.03*: One paper accepted to CVPR 2025.
-- *2025.01*: Our new survey on "Physical AI" is now on [arxiv](https://arxiv.org/abs/2501.10928). -->
+# 🔥 News
+- *2026.04*: One paper accepted to T-PAMI.
+- *2026.04*: Two papers accepted to T-MM.
+
 
 <!-- <span class='anchor' id='publications'></span> -->
 
@@ -86,6 +85,7 @@ My research interests lie in computer vision, generative learning, video underst
 
 # 📝 Selected Publications (Full list: [Link](https://scholar.google.com/citations?user=ElujT6oAAAAJ&hl=en))
 
+<!-- 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/yutongpaper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -94,7 +94,7 @@ My research interests lie in computer vision, generative learning, video underst
 Yutong Hao, Chen Chen, Ajmal Saeed Mian, Chang Xu, **Daochang Liu**
 
 </div>
-</div>
+</div> -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
