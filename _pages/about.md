@@ -588,9 +588,9 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 # Selected Services
 
 - *2026*, Program Chair of Digital Image Computing: Techniques and Applications (DICTA)
-- *2025-now*, Area Chair of Conference on Neural Information Processing Systems (NeurIPS)
-- *2025-now*, Area Chair of International Conference on Learning Representations (ICLR)
-- *2024-now*, Area Chair of International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
+- *2025-2026*, Area Chair of Conference on Neural Information Processing Systems (NeurIPS)
+- *2025-2026*, Area Chair of International Conference on Learning Representations (ICLR)
+- *2024-2026*, Area Chair of International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)
 <!-- - *2024*, Chair of The 1st Workshop on Efficiency, Security, and Generalization of Multimedia Foundation Models at ACM MM 2024 -->
 <!-- - *2024*, Co-Chair of IJCNN 2024 Special Session “Efficiency, Security, and Generalization of Foundation Models" -->
 <!-- - *2023*, Co-Organizer of Coding Fest USYD & Macquarie Workshop -->
