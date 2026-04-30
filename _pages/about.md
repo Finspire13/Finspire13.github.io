@@ -24,7 +24,7 @@ I obtained a PhD degree from Peking University.
 My research interests lie in computer vision, generative learning, video understanding and generation, and healthcare applications.
 
 
-**I am actively looking for PhD/MPhil students and research interns. If you are interested in working with me, please contact me.**
+**I am actively looking for PhD/MPhil students and research interns. If you are interested, please contact me.**
 
 <!-- (UWA PhD Scholarship Application Due: International 31 August, Domestic 31 October, UWA-CSC PhD Application Due: 30 January.) -->
 
