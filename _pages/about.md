@@ -608,7 +608,7 @@ Xiaohuan Pei, **Daochang Liu**, Qian Luo, Chang Xu
 - *2024*, NCI National AI Flagship Scheme Grant
 - *2024*, Digital Sciences Initiative Ignite Award
 - *2022*, ICDM Best Student Paper Award
-- *2020*, Microsoft Research Asia Fellowship Nomination
+<!-- - *2020*, Microsoft Research Asia Fellowship Nomination -->
 
 
 
