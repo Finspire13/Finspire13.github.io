@@ -55,8 +55,8 @@ My research interests lie in computer vision, generative learning, video underst
 
 # News
 - *2026.05*: Two papers accepted to ICML 2026.
+- *2026.05*: One paper accepted to MICCAI 2026.
 - *2026.04*: One paper accepted to T-PAMI.
-- *2026.04*: One paper accepted to T-MM.
 
 
 <!-- <span class='anchor' id='publications'></span> -->
